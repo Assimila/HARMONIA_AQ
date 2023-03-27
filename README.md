@@ -10,7 +10,7 @@ This repository contains data from two CAMS data sets
 
 Data have been extracted for areas surrounding the four HARMONIA target cities: Milan, Piraeus, Ixelles and Sofia
 
-All the data have been pre-processed to mass concentrations in $\mu \text{g} \text{m}^{-3}$
+All the data have been pre-processed to mass concentrations in $\mu \text{g}\\, \text{m}^{-3}$
 
 Two jupyter notebooks demonstrate opening and plotting the data
 
